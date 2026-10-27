@@ -1,0 +1,12 @@
+.vibelab/
+.gradle/
+.cxx/
+build/
+**/build/
+Il2CppOutputProject/
+symbols/
+local.properties
+*.apk
+*.aab
+*.keystore
+*.jks

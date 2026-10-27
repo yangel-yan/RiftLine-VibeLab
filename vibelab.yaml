@@ -1,0 +1,30 @@
+app:
+  name: Riftline
+  slogan: Run the Rift. Recover the lost archives.
+  description: Riftline is a PICO XR science-fiction rail runner. Switch lanes, jump, slide, and phase through hazards while recovering lost archives across 18 contracts, three regions, and an endless mode. The project includes a bilingual Chinese and English interface, controller and hand input, and configurable comfort and accessibility options.
+  tags:
+    - XR
+    - Runner
+    - Sci-Fi
+    - Action
+  category: game
+  icon: uri:tos-cn-i-1f2op84boi/e464e12d-60d4-4cb4-b12d-b514fbd0ee9e.png
+  landscape: uri:tos-cn-i-1f2op84boi/4d40ab07-5d7b-4234-8b03-fece3a3f7a14.png
+  detail_images:
+    - uri:tos-cn-i-1f2op84boi/95af6846-4d57-43c0-82b3-5f6e24309987.png
+    - uri:tos-cn-i-1f2op84boi/968595d5-8892-4045-a167-78479118617e.png
+    - uri:tos-cn-i-1f2op84boi/b6676ef9-b119-4a71-ab23-090d8f5a3e84.png
+  videos: []
+version:
+  name: 0.1.0
+  notes: Initial VibeLab preview with 18 contracts, three authored regions, branching archive routes, an endless mode, bilingual menus, controller and hand input, and comfort settings. This draft records Editor-validated project content and does not claim physical-device performance or store certification.
+build:
+  repo_url: https://github.com/yangel-yan/RiftLine-VibeLab
+  repo_visibility: public
+  tech_stack: unity
+  ai_tool: Trae CLI
+  ai_model: GPT-5
+  features:
+    - hand_tracking
+    - controller_support
+  teammates: []
